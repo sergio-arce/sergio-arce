@@ -11,18 +11,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 👨‍💻 All of my projects are available at.....
+
+- 💬 Ask me about **Front End Development**
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergio-arce&show_icons=true&locale=en" alt="khasanmeliev" /></p>
 -->
 
 <h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=varela&size=30&pause=1000&color=9DA5B4&width=550&height=67&lines=Hello+world!+%F0%9F%91%8B+I'm+Sergio+Arce" alt="Typing SVG" /></h1>
 
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **Next.js - React - Sockets**
-
-- 👨‍💻 All of my projects are available at.....
-
-- 💬 Ask me about **Front End Development**
-
+- 🌱 I’m currently learning **Next.js - Sockets**
 - 📫 How to reach me **sergio.arce.dev@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,7 +31,7 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergio-arce&show_icons=true&locale=en&layout=compact" alt="khasanmeliev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergio-arce&show_icons=true&locale=en" alt="khasanmeliev" /></p>
+
 
 
 
