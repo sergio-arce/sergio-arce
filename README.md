@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hello world! 👋, I'm Sergio Arce</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=26&pause=1000&color=326EFF&width=495&lines=Hello+world!+%F0%9F%91%8B%2C+I'm+Sergio+Arce)](https://git.io/typing-svg)
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🌱 I’m currently learning **Next.js - React - Sockets**
