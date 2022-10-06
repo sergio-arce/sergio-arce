@@ -63,5 +63,5 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub" width="40" height="40" />
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergio-arce&show_icons=true&locale=en&layout=compact" alt="khasanmeliev" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sergio-arce&show_icons=true&locale=en&theme=tokyonight" alt="sergio-arce" /></p>
 
